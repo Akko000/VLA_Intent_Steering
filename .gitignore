@@ -1,0 +1,19 @@
+# 实验输出
+outputs/
+logs/
+*.png
+*.pdf
+wandb/
+
+# 模型权重和数据
+*.pt
+*.pth
+*.bin
+*.safetensors
+data/
+models/
+
+# 环境
+.conda/
+__pycache__/
+*.egg-info/
